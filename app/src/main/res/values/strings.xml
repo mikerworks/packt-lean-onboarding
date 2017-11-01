@@ -1,0 +1,31 @@
+<resources>
+    <string name="twitter_key">FeNA49RunyS6OpfzX4lstsG3O</string>
+    <string name="twitter_secret">bhR2gYjH85fx1yPWltWXRTukIXqb3NXJdF27qIpcZrjMNxI5VU</string>
+
+    <string name="app_name">Tell a story</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="sharing_text">Hi read the %s story with the Team Stories app! #StoryTelling http://fancyurl.com</string>
+    <string name="onboarding_text">Do you want to stay in touch? Having literary ambitions or do you just want to work on something with family, friends or collugues? Write stories together!\n\nGetting started is easy. Sign up with your Twitter account or just with your mobile phone and you are good to go. Best of all: it is free!\n\nNot convinced yet? Of course you can have a look first to see what is all about and sign up later!</string>
+    <string name="late_onboarding_text">Before you can continue with your contribution we need to know who you are and make sure that you are that say you are. That make sense, does it not?\n\nDo not worry. Registration is as easy as clicking on one of the two buttons below. Sign up with your phone or use your Twitter account.\n\nYou are just a few clicks away from your first contribution!</string>
+
+
+</resources>
